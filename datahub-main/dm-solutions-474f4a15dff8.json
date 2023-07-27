@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dm-solutions",
+  "private_key_id": "474f4a15dff8ea65e42269cbdad87f487459acd9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDz69w36p6D3T+i\nrPdgmQMCKxHv73InPm+cVyLb5OI25Y9fUdITQFdWGGm5reyUx5V9kVnM6sjCe/aJ\nTpUP2QlHjtWAziVKqf4u+5PJV3dhVFGo5Cai1uVHElLE3wvC1MD4jAB2S5Z1FSlQ\nyU+wG04nCAi5NuAgbAyCIc/Igw1KaQVRVU60a+rfcI47Ocg8Df20Ze6ZEEI/yvDB\nUyslu0U3ZsdKkFxMuvNGAqrUYTuNFhCuYSl6PlzqT/Ehwl7hV28tMjUtJKddS548\nldlpUcvP778FQf3m3dQMa2w++iVsWXEOgKrmI3N0s1Wfx2kIG6CG61bO4HtTwp8S\ntzlQfKU3AgMBAAECggEASOYUNkfx4QIGKzWbZyzDt+msXjOHP9BKpgRqwCJLM1Hv\nQ/MdoDBKCcqZCmu++YYemN0QZAxFPM60kzu/k/Fu8wpup6S0g3iDpYH9nJ596MI8\n94dcPq2P72o7/2eTycIw+/dHihM0H8DXzLOlk8HNXR/rD4Olfzsbj+bQBSKZncNo\n+vBLCzGdNCsl7jtk2bS7lc3qH9pwPeVMKQJd0MGTl2mEA5RhNS4ByYnjHbwLQ2oA\nX7YALroPo6/+THMpYTITT2ZYFkjQolwzt46FKUdeYlNTxF3dyaD7Of0+3HVKkNP0\n5BSu3rv++gxKIrISiZma9xufrlSrbR4zH2VR1n3vIQKBgQD79vMKB73VCn8O65P/\nnfoI4ZZ1y61TorydofzX1yhqlWt6Q+oQ39o2PdNXJvtXYCipr5PvZaSpjrNmwkV/\npQUrTulaeq1STAoefz2dOv4D3k2Z4r0Cch4z1W/LPMil80hX1b22OM3DpRUG0iWf\nzf1y66zh6QG+x3+N9gujYF+54QKBgQD30+7zKzRMWb7NmnUTjei0AfsblqXD9Fai\njypswMhfP/x4vPRaUWvLAOIDsvNlahld5vaVHJOa6CC08zOTj5X4A/vP35D1ITDL\nUkUwXJAUEaIQv9Fh2tR84TrClVRWGPlkjtqqciDaqUKk2EFe1vPDsGWf0+MrpclX\nNoEaujUyFwKBgFofJSUUScj2nSWoC2KljbY5ggiWFmPQ1GgJdZd6JMGiujOcMQ9i\nEfnOuVX14naJNWIkI+S/1Vq0aOS7XgJe8u9fpUWwlWfXPNNVraMcY5jcnaMKH5LN\nYJInqHnoPthkoR6Rm+6eeLKezFuJNN3o3tuJAmg3YGFtl+kd9WG1aefhAoGAf58m\n/RhxnSPWKyDwS3qXrCMdAe8JPCjWeG4LZee9B7f2tuJvXxdw0CCLQ2ZjCwWhPIcU\n0mLd7Da/qQ9YrxORIiBDC6BQkLtf2kRqluYD2CHgeImfNKoxJIID9XJa9N91hoA+\nQOn220Owqx0mRMWi0FJFcxH1eWOtlHjf8TiU7k8CgYEAjXUbcH56w5llK21dr9Rb\n4Ikw81pqK2x9aKBn7UcchyU5vwt2O5F/luOgvmWyDv/0EK44Hq9l3XQtAVSn798L\nV9To1/o6dWqygAs7tD6Znh1KdBcHkqT2iGF1zUqvwn8bTuDnv9yjFcm21j+YEzWp\nlexgdkVbA9B3kNHkI51+yXM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "datahub-storage@dm-solutions.iam.gserviceaccount.com",
+  "client_id": "111574886147280671758",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/datahub-storage%40dm-solutions.iam.gserviceaccount.com"
+}
